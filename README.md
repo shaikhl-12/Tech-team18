@@ -8,7 +8,7 @@ This is a final project of our Group for subject Tech for mobile apps.
 # Project Title: Climate_Awareness Mobile app game developed using React-native and Expo CLI - (Project team-18)
 
 # Team members
-1. Venkata Narayana Reddy, 
+1. Venkata Narayana Reddy, tangirvd@mail.uc.edu
 2. Hemanth Isaac Dupati, 
 3. Hadeel Shaik, shaikhl@mail.uc.edu
 
