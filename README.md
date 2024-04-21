@@ -327,6 +327,9 @@ Furthermore,we have implemented the code in a way that if the question appeared 
 ![](6.png)
 
 
+![](7.png)
+
+
 # Contribution:
 In the team, Everyone contributed very well from scratch by developing the code and doing styling and every next step of project.such that it woulid be wonderful to users to use.
 
