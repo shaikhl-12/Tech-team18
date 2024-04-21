@@ -10,7 +10,7 @@ This is a final project of our Group for subject Tech for mobile apps.
 # Team members
 1. Venkata Narayana Reddy, tangirvd@mail.uc.edu
    Profile photo:
-3. Hemanth Isaac Dupati,
+3. Hemanth Isaac Dupati, dupatihr@mail.uc.edu
    Profile photo:
 5. Hadeel Shaik, shaikhl@mail.uc.edu
    profile photo:
