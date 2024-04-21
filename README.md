@@ -48,7 +48,7 @@ For suppose if he choose vocabulary quiz; The questions will appear on the scree
 Furthermore,we have implemented the code in a way that if the question appeared on the screen was slected by user and it gets correct, then it was indicated by green color otherwise it goes to red color.
 
 # Screenshots:
-![](images/1.png)
+![](1.png)
 
 
 ![](images/2.png)
